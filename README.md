@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmht
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning various algorithm techniques. 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate. 
 - 📫 How to reach me?
 -    E-mail: iamtalha.mht@gmail.com
 
