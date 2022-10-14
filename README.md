@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MOJA**
 
-- 🌱 I’m currently learning **Flutter, ASP.NET Core**
+- 🌱 I’m currently learning **DevOps, ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [itsmht.me](itsmht.me)
 
