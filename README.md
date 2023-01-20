@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps, ASP.NET Core**
 
-- 👨‍💻 All of my projects are available at [itsmht.me](itsmht.me)
+- 👨‍💻 All of my projects are available at [itsmht.github.io](itsmht.github.io)
 
 - 💬 Ask me about **Laravel, ASP.NET MVC**
 
