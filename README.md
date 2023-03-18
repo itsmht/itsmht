@@ -9,8 +9,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmht&theme=radical" alt="itsmht" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 
-- 🔭 I’m currently working on **MOJA**
-
 - 🌱 I’m currently learning **DevOps, ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [itsmht.github.io](itsmht.github.io)
